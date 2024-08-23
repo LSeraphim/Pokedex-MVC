@@ -1,5 +1,6 @@
 using System.Net.Mail;
 using System.Security.Claims;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Pokedex.ViewModels;
